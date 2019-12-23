@@ -11,3 +11,4 @@ end
  
 fido = Dog.new
 fido.bark #> "Woof!"
+fido.sit #> "The Dog is sitting"
